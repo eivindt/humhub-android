@@ -1,4 +1,4 @@
-package ch.tink.humhub;
+package org.humhub;
 
 import android.content.Context;
 import android.content.Intent;
