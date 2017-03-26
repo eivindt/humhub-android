@@ -1,4 +1,4 @@
-package ch.tink.humhub;
+package org.humhub;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
