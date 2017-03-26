@@ -1,4 +1,4 @@
-package ch.tink.humhub;
+package org.humhub;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
