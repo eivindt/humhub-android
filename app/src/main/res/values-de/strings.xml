@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">humhub</string>
+    <string name="app_name">HumHub</string>
 
     <!--SettingsActivity-->
     <string name="title_activity_setting">Einstellungen</string>
-    <string name="setting_url">Die Url zu deinem Humhub</string>
+    <string name="setting_url">Die Url zu deinem HumHub</string>
     <string name="setting_saveButton">Url speichern</string>
     <string name="setting_notification">Push-notifications erlauben</string>
 
     <!--WelcomeActivity-->
     <string name="title_activity_welcome"></string>
-    <string name="welcome_first">Hallo zu Humhub mobile!</string>
-    <string name="welcome_second">Gib hier die Url zu deiner Humhub-Installation ein</string>
+    <string name="welcome_first">Hallo zu HumHub mobile!</string>
+    <string name="welcome_second">Gib hier die Url zu deiner HumHub-Installation ein</string>
     <string name="welcome_save">Weiter</string>
 </resources>
