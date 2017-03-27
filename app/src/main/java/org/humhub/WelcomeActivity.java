@@ -56,7 +56,7 @@ public class WelcomeActivity extends AppCompatActivity {
     private void saveUrl(String url){
         SharedPreferences.Editor editor = sharedPreferences.edit();
         editor.putString("url",url);
-        editor.commit();
+        editor.apply();
     }
 
     private void fadeInImage(){
