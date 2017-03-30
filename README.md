@@ -1,6 +1,8 @@
+## [Humhub](https://www.humhub.org/en) Android App
+
 Here comes the android app for the popular humhub-application (<https://www.humhub.org/>)
 
-A first, very simple version can be downloaded here: <https://play.google.com/store/apps/details?id=ch.tink.humhub>
+A first, very simple version can be downloaded here: <https://github.com/GreenVolume/humhub-android/releases>
 
 The further tasks are:
 
@@ -50,17 +52,13 @@ The further tasks are:
                 Todo
             </td>
             <td>
-                to realise #3.) it is needed to create a humhub-module (<https://www.humhub.org/de/marketplace/> )
+                to realise #3.) it is needed to create a humhub module (https://www.humhub.org/en/marketplace/)
             </td>
         </tr>
 </table>
 
 
-Until no it looks like that:
+Until now it looks like that:
 
-![Alt text](/download_app/screenshots/startingPage.JPG?raw=true "Login Page")
-![Alt text](/download_app/screenshots/loginPage.JPG?raw=true "Login Page")
-![Alt text](/download_app/screenshots/timeline.JPG?raw=true "Login Page")
-![Alt text](/download_app/screenshots/profileEditing.JPG?raw=true "Login Page")
-![Alt text](/download_app/screenshots/wiki.JPG?raw=true "Login Page")
+![Alt text](/download_app/screenshots/startingPage.JPG)
 
