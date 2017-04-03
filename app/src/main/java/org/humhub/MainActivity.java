@@ -1,8 +1,13 @@
 package org.humhub;
 
-import android.content.Intent;
-import android.content.SharedPreferences;
+import android.app.Activity;
+import android.app.NotificationManager;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v4.app.NotificationCompat;
+import android.content.Context;
+import android.content.Intent;
+import android.content.BroadcastReceiver;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.View;
@@ -13,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected SharedPreferences sharedPreferences;
     private WebView myWebView;
-    private String url;
+    public String url;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Enable Java
         this.myWebView.getSettings().setJavaScriptEnabled(true);
+
         //Set Client
         myWebView.setWebViewClient(new WebViewClient() {
 
