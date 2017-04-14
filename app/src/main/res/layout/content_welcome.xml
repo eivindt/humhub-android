@@ -29,8 +29,8 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingTop="30px"
-        android:paddingBottom="30px"
+        android:paddingTop="30dp"
+        android:paddingBottom="30dp"
         android:id="@+id/imageView"
         android:src="@drawable/logo"
         android:layout_below="@+id/textView2"
